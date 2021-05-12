@@ -61,7 +61,7 @@ where $L$ is a real number
 
 Limits do not exist if there is a discontinuity or if the limit approaches infinity. 
 
-See [[continuity]] for more information about discontinuities.
+See [[Continuity]] for more information about discontinuities.
 
 > **NOTE**
 > For a given real number $c$,

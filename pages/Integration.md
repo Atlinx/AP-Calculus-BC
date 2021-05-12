@@ -34,7 +34,7 @@ $$\Large \int_a^bf(x) = F(b) - F(a)$$
 ## Finding Integrals
 
 Finding integrals is applying the reverse of many derivative rules.
-To reverse the [[chain rule]], try using [[integration by parts]].
+To reverse the [[Chain Rule]], try using [[Integration by Parts]].
 
 - #### [[Integration Tricks]]
 - #### [[Reverse Power Rule]]
