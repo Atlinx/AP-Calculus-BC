@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "a46818f526b24d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "962eef4a6045ae0c",
+        "type": "leaf",
+        "dimension": 55.52721088435374,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Limits.md",
+            "mode": "source"
+          }
+        },
+        "group": "91be915637f67593"
+      },
+      {
+        "id": "d5e04bff825c8b65",
+        "type": "leaf",
+        "dimension": 44.47278911564626,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Limits.md",
+            "mode": "preview"
+          }
+        },
+        "group": "91be915637f67593"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ede781f06660584d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4ce4edbc0b3e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94468eb2bf551b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b31c28fc654c2498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0c2f6abcc0abe8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9f4a5328f245b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c569e9b8083e9bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Limits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "962eef4a6045ae0c",
+  "lastOpenFiles": [
+    "Limits.md",
+    "AP Calculus BC.md",
+    "Approximations for Area Under a Curve.md"
+  ]
+}
