@@ -6,28 +6,26 @@
       {
         "id": "962eef4a6045ae0c",
         "type": "leaf",
-        "dimension": 55.52721088435374,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Main.md",
             "mode": "source"
           }
         },
-        "group": "91be915637f67593"
+        "group": "5aa2e9880ac121db"
       },
       {
-        "id": "d5e04bff825c8b65",
+        "id": "1c4a5173b2d3edfa",
         "type": "leaf",
-        "dimension": 44.47278911564626,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Main.md",
             "mode": "preview"
           }
         },
-        "group": "91be915637f67593"
+        "group": "5aa2e9880ac121db"
       }
     ],
     "direction": "vertical"
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,13 +101,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
-    "README.md",
     "Main.md",
-    "Untitled.md",
-    "_Main.md",
-    "Approximations for Area Under a Curve.md",
-    "Average Area Below a Function.md",
-    "Limits.md",
-    "AP Calculus BC.md"
+    "Volume of a Solid of Revolution.md",
+    "pages/Differentials.md",
+    "pages/Quotient Rule.md",
+    "pages/Product Rule.md",
+    "pages/Integration.md",
+    "pages/Slope Fields.md",
+    "Pasted image 20210512222329.png",
+    "Pasted image 20210512222313.png",
+    "Pasted image 20210512222315.png"
   ]
 }

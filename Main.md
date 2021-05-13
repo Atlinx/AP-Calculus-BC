@@ -16,6 +16,9 @@
 11. #### [[Parametric Equations]]
 12. #### [[Integration]]
 14. #### [[Function-Related Integrals]]
+15. #### [[Differential Equations]]
+16. #### [[Slope Fields]]
+17. #### [[Volume of a Solid of Revolution]]
 
 # AP Exam Prep
 1. #### [[Mistakes]]

@@ -1,4 +1,3 @@
-Main: [[AP Calculus BC]]
 Tags: #Topic
 
 # Continuity
