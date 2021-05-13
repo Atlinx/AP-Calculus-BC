@@ -5,7 +5,7 @@ Tags: #Topic
 ## Extrema
 
 > **NOTE:**
-> You should know that existence of [[Second Derivative Test]] because even though the [[First Derivative Test]] is guaranteed to work, College Board still wants you to know how to use second derivative test.
+> You should know that existence of [[Second Derivative Test]] because even though the [[First Derivative Test]] is guaranteed to work, College Board still expects you to know how to use second derivative test.
 
 ## Continuity
 

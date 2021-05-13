@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Polar Equations.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Polar Equations.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "pages/Polar Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
+    "Polar Equations.md",
     "Main.md",
+    "pages/Motion.md",
+    "pages/Mistakes.md",
     "Volume of a Solid of Revolution.md",
     "pages/Differentials.md",
     "pages/Quotient Rule.md",
     "pages/Product Rule.md",
     "pages/Integration.md",
-    "pages/Slope Fields.md",
-    "Pasted image 20210512222329.png",
-    "Pasted image 20210512222313.png",
-    "Pasted image 20210512222315.png"
+    "pages/Slope Fields.md"
   ]
 }

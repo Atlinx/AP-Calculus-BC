@@ -42,6 +42,14 @@ $$\Large d(t) = \int_a^b |v(x)|$$
 
 Often uses [[Parametric Equations]] of $x$ and $y$, which both depend on $t$, the time since the start of the movement.
 
+> **NOTE:**
+> Often times, velocity is calculated using the derivatives of the separate $y$ and $x$ parametric equations.
+> 
+> **Ex.**
+> $$\Large \frac{dy}{dx} = \frac{dy}{dt} \cdot \frac{dt}{dx}$$
+> 
+> Note that $\dfrac{dx}{dt}$ is reversed since $dx$ is in the denominator of $\dfrac{dy}{dx}$.
+
 **Speed:** 
 
 $$\Large \|v(t)\| = \sqrt{v_x^2+ v_y^2}$$

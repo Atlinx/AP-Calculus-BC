@@ -19,6 +19,7 @@
 15. #### [[Differential Equations]]
 16. #### [[Slope Fields]]
 17. #### [[Volume of a Solid of Revolution]]
+18. #### [[Polar Equations]]
 
 # AP Exam Prep
 1. #### [[Mistakes]]
