@@ -72,7 +72,7 @@ See [[Continuity]] for more information about discontinuities.
 
 Limits are indeterminate if they are,
 
-$$\huge\frac{0}{0}, \frac{\infty}{\infty}, \infty - \infty, 0^0, 1^\infty, \infty^0, 0 \cdot \infty$$
+$$\Large\frac{0}{0}, \frac{\infty}{\infty}, \infty - \infty, 0^0, 1^\infty, \infty^0, 0 \cdot \infty$$
 
 If a limit is in the indeterminate form of $\displaystyle 	\frac{0}{0}$ or $\displaystyle \frac{\infty}{\infty}$ , you can use [[L'Hopital's Rule]] to solve for the limit.
 

@@ -7,25 +7,9 @@
         "id": "962eef4a6045ae0c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Polar Equations.md",
-            "mode": "source"
-          }
-        },
-        "group": "5aa2e9880ac121db"
-      },
-      {
-        "id": "1c4a5173b2d3edfa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Polar Equations.md",
-            "mode": "preview"
-          }
-        },
-        "group": "5aa2e9880ac121db"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Polar Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +84,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
-    "Polar Equations.md",
-    "Main.md",
-    "pages/Motion.md",
-    "pages/Mistakes.md",
-    "Volume of a Solid of Revolution.md",
     "pages/Differentials.md",
-    "pages/Quotient Rule.md",
-    "pages/Product Rule.md",
-    "pages/Integration.md",
-    "pages/Slope Fields.md"
+    "Main.md",
+    "pages/Function-Related Integrals.md",
+    "pages/Average Area Below a Function.md",
+    "pages/Function Arc Length.md",
+    "pages/Polar Equations.md",
+    "pages/Limits.md",
+    "pages/L'Hopital's Rule.md",
+    "Alternating Series Test.md",
+    "pages/Convergence.md"
   ]
 }

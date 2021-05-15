@@ -4,7 +4,7 @@ Tags: #Topic
 
 Polar equations are functions graphed on the polar coordinate plane.
 
-![](attachments/polar_coordinates.png)
+![](../attachments/polar_coordinates.png)
 
 Polar equations often follow the format of 
 $$\Large r(\theta)=\ldots$$
@@ -27,6 +27,8 @@ This converted set of $x$ and $y$ equations are parametric equations since they 
 
 The area of a polar equation is normally the area from the orign ($r = 0$) to $r(\theta)$.
 
+![](../attachments/area_of_polar_equation.png)
+
 This area can be calculated using
 
 $$\Large A = \int_a^b \frac{1}{2} r(\theta)^2 d\theta$$
@@ -38,6 +40,29 @@ $$\Large A = \int_a^b \frac{1}{2} r(\theta)^2 d\theta$$
 
 ## Area Using Multiple Polar Equations
 
-Divide the polar equations into sectors and integrate of each of the sectors separately to get the different sectors' areas. You can then sum up these sector areas to get the total area.
+**Ex.**
+Given
 
-$$\large A = \int_a^b \frac{1}{2} \left( r_1(\theta)^2 - r_2(\theta)^2 \right) d\theta + \int_b^c \frac{1}{2} \left( r_2(\theta)^2 - r_3(\theta)^2 \right) d\theta + \ldots$$
+$$
+\Large
+\begin{aligned}
+& r_1(\theta) = 3 - 3\cos(\theta)\ \\
+& r_2(\theta) = 3\ \\
+\end{aligned}
+$$
+
+find the area of the purple region.
+
+![](../attachments/area_of_multiple_polar_equations.png)
+
+1. Find where each of the polar equations intersect one another. 
+
+![](../attachments/multiple_polar_equations_intersection_points.png)
+
+1. Divide the polar equations into sectors based on the intersection points.
+
+![](../attachments/area_of_multiple_polar_equations_separated.png)
+
+1. Integrate of each of the sectors separately to get the different sectors' areas, and sum up all these areas to get the total area.
+
+$$\Large A = \int_{-\frac{\pi}{2}}^\frac{\pi}{2} \frac{1}{2} r_1(\theta)^2 d\theta + \int_\frac{\pi}{2}^\frac{3\pi}{2} \frac{1}{2} r_2(\theta)^2 d\theta$$

@@ -6,7 +6,7 @@ Tags: #Topic
  
  Given a value $f(x_1)=y_1$ and $f'(a)=c$, we can find a line that approximates the function.
  
- $$y - y_1 = c(x - x_1)$$
+ $$\Large y - y_1 = c(x - x_1)$$
  
  To use the approximation, you plug in an $x$ value and solve for $y$.
 

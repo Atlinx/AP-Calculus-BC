@@ -18,8 +18,9 @@
 14. #### [[Function-Related Integrals]]
 15. #### [[Differential Equations]]
 16. #### [[Slope Fields]]
-17. #### [[Volume of a Solid of Revolution]]
-18. #### [[Polar Equations]]
+17. #### [[Function-Derived Solids]]
+20. #### [[Polar Equations]]
+21. #### [[Series]]
 
 # AP Exam Prep
 1. #### [[Mistakes]]

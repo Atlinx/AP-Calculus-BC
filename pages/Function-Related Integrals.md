@@ -4,4 +4,4 @@ Tags: #Topic #Memorize
 
 #### [[Average Area Below a Function]]
 
-#### [[Length of a Function's Line]]
+#### [[Function Arc Length]]

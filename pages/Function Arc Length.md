@@ -1,6 +1,6 @@
 Tags: #Topic #Theorem #Memorize 
 
-# Length of a Function's Line
+# Function Arc Line
 
 $$
 \Large

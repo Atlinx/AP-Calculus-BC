@@ -2,8 +2,6 @@ Tags: #Topic
 
 # Volume of a Solid of Revolution
 
-**Solid of Revolution** - A solid formed by taking the 2-D area and rotating it around an axis.
-
 ## Disk Method
 
 Used to calculate the volume of a solid of revolution around an axis that is connected to the area.
