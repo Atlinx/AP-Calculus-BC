@@ -4,12 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "962eef4a6045ae0c",
+        "id": "c35aaa975a2098c1",
         "type": "leaf",
+        "dimension": 63.435374149659864,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "pages/Average Area Below a Function.md",
+            "mode": "source"
+          }
+        },
+        "group": "3caa2d281227f590"
+      },
+      {
+        "id": "4b93100e2b464b40",
+        "type": "leaf",
+        "dimension": 36.564625850340136,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Average Area Below a Function.md",
+            "mode": "preview"
+          }
+        },
+        "group": "3caa2d281227f590"
       }
     ],
     "direction": "vertical"
@@ -36,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/Average Area Below a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "962eef4a6045ae0c",
+  "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
-    "pages/Differentials.md",
-    "Main.md",
-    "pages/Function-Related Integrals.md",
     "pages/Average Area Below a Function.md",
-    "pages/Function Arc Length.md",
-    "pages/Polar Equations.md",
+    "pages/Function-Related Integrals.md",
+    "Main.md",
+    "pages/Function-Derived Solids.md",
+    "pages/Mistakes.md",
+    "pages/Integration.md",
+    "pages/Optimization.md",
     "pages/Limits.md",
-    "pages/L'Hopital's Rule.md",
-    "Alternating Series Test.md",
-    "pages/Convergence.md"
+    "pages/Function Arc Length.md",
+    "pages/Differentials.md"
   ]
 }
