@@ -6,10 +6,28 @@
       {
         "id": "962eef4a6045ae0c",
         "type": "leaf",
+        "dimension": 81.13636363636364,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Series Representation of an Integral.md",
+            "mode": "source"
+          }
+        },
+        "group": "46fa0f71d87b1148"
+      },
+      {
+        "id": "851d03883670774c",
+        "type": "leaf",
+        "dimension": 18.863636363636363,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Series Representation of an Integral.md",
+            "mode": "preview"
+          }
+        },
+        "group": "46fa0f71d87b1148"
       }
     ],
     "direction": "vertical"
@@ -65,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Series Representation of an Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +103,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
-    "pages/Differentials.md",
-    "Main.md",
+    "Series Representation of an Integral.md",
     "pages/Function-Related Integrals.md",
+    "Main.md",
+    "README.md",
+    "pages/Differentials.md",
     "pages/Average Area Below a Function.md",
     "pages/Function Arc Length.md",
     "pages/Polar Equations.md",
     "pages/Limits.md",
-    "pages/L'Hopital's Rule.md",
-    "Alternating Series Test.md",
-    "pages/Convergence.md"
+    "pages/L'Hopital's Rule.md"
   ]
 }
