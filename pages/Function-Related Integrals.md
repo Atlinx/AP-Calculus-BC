@@ -5,3 +5,5 @@ Tags: #Topic #Memorize
 #### [[Average Area Below a Function]]
 
 #### [[Function Arc Length]]
+
+#### [[Series Representation of an Integral]]

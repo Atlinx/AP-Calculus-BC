@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Average Area Below a Function.md",
+            "file": "Main.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Average Area Below a Function.md",
+            "file": "Main.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Average Area Below a Function.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,9 @@
   },
   "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
+    "Main.md",
     "pages/Average Area Below a Function.md",
     "pages/Function-Related Integrals.md",
-    "Main.md",
     "pages/Function-Derived Solids.md",
     "pages/Mistakes.md",
     "pages/Integration.md",
