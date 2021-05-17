@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Mistakes.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Mistakes.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "function",
+                "query": "mistake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "pages/Mistakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +104,15 @@
   },
   "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
+    "pages/Mistakes.md",
+    "pages/U-Substitution.md",
+    "pages/Integration.md",
     "Main.md",
     "pages/Average Area Below a Function.md",
     "pages/Function-Related Integrals.md",
     "pages/Function-Derived Solids.md",
-    "pages/Mistakes.md",
-    "pages/Integration.md",
     "pages/Optimization.md",
     "pages/Limits.md",
-    "pages/Function Arc Length.md",
-    "pages/Differentials.md"
+    "pages/Function Arc Length.md"
   ]
 }

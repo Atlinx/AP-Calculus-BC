@@ -35,3 +35,32 @@ f(x) =
 > $\tan^{-1}(x)$ and $\cot^{-1}(x)$ are the only trig functions that can handle limits of $x\to\infty$.
 > 
 > Make sure to not panic when seeing a trig function in an infinity limit.
+
+## Using U-Substitution
+
+> **NOTE:**
+> If a function seems hard to integrate, try u-sub!
+> 
+> **Ex.**
+> $$
+\Large
+\begin{aligned}
+\int \frac{e^x - 1}{e^x - x}dx \\
+\end{aligned}
+>$$
+>$$
+\Large
+\begin{aligned}
+u &= e^x - x \\
+dx &= \frac{du}{e^x - 1}
+\end{aligned}
+>$$
+>$$
+\Large
+\begin{aligned}
+&= \int \frac{\bcancel{e^x - 1}}{u} \left( \frac{du}{\bcancel{e^x - 1}} \right) \\
+&= \int \frac{1}{u} du \\
+&= ln|u| + C \\
+&= ln|e^x-x| + C \\
+\end{aligned}
+>$$
