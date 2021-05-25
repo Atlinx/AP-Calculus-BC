@@ -29,7 +29,7 @@ $$
 
 Diagram of a single ring in a solid of revolution:
 
-![](attachments/surface_area_ring_of_solid_of_revolution.png)
+![](../attachments/surface_area_ring_of_solid_of_revolution.png)
 
 > **NOTE:**
 > Since $dx$ is really small, $r_1$ and $r_2$ would be really close together, which means $r_1+r_2$ is just $2r$, where $r=dx$.
