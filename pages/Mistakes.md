@@ -64,3 +64,28 @@ dx &= \frac{du}{e^x - 1}
 &= ln|e^x-x| + C \\
 \end{aligned}
 >$$
+
+## Derivative of First-Derivative Parametric Equation
+
+Given
+
+$$\Large \frac{dx}{dt} = \ldots \qquad \frac{dy}{dt} = \ldots$$
+
+you must find $$\Large  \frac{d^2y}{dx^2}$$
+
+You **CANNOT** do
+
+$$\Large  \frac{d}{dt} \left[ \frac{dy}{dt}  \right] \div \frac{d}{dt} \left[ \frac{dx}{dt}  \right] = \frac{d^2y}{dx^2}$$
+
+since 
+
+$$\large \frac{d}{dt} \left[ \frac{dy}{dt}  \right] \div \frac{d}{dt} \left[ \frac{dx}{dt}  \right] = \frac{d^2y}{d^2x} \neq \frac{d^2y}{dx^2}$$
+
+> **NOTE:**
+> Look at the denominator. Notice how this produces $d^2x$ in the denominator, which is not the same as $dx^2$.
+
+Instead, you must do
+
+$$\Large \frac{d}{dx} \left[ \frac{dy}{dt} \div \frac{dx}{dt} \right] = \frac{d^2y}{dx^2}$$
+
+Therefore you can only do the "division combination" strategy of combining parametric equations **BEFORE** taking the derivative of the combined terms.

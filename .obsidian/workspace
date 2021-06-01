@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Mistakes.md",
+            "file": "pages/Function Arc Length.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Mistakes.md",
+            "file": "pages/Function Arc Length.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mistake",
+                "query": "arc length",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Mistakes.md",
+                "file": "pages/Function Arc Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,8 @@
   },
   "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
+    "pages/Function Arc Length.md",
+    "pages/Motion.md",
     "pages/Mistakes.md",
     "pages/U-Substitution.md",
     "pages/Integration.md",
@@ -111,8 +113,6 @@
     "pages/Average Area Below a Function.md",
     "pages/Function-Related Integrals.md",
     "pages/Function-Derived Solids.md",
-    "pages/Optimization.md",
-    "pages/Limits.md",
-    "pages/Function Arc Length.md"
+    "pages/Optimization.md"
   ]
 }
