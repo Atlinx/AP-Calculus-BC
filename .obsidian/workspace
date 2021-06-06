@@ -6,11 +6,11 @@
       {
         "id": "c35aaa975a2098c1",
         "type": "leaf",
-        "dimension": 57.82312925170068,
+        "dimension": 60.544217687074834,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Function Arc Length.md",
+            "file": "pages/Series Representation of an Integral.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "4b93100e2b464b40",
         "type": "leaf",
-        "dimension": 42.17687074829932,
+        "dimension": 39.455782312925166,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Function Arc Length.md",
+            "file": "pages/Series Representation of an Integral.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arc length",
+                "query": "radius of conver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Function Arc Length.md",
+                "file": "pages/Series Representation of an Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +103,15 @@
   },
   "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
+    "Series Representation of an Integral.md",
+    "Main.md",
+    "pages/Alternating Series Test.md",
+    "pages/Convergence.md",
+    "pages/Function-Related Integrals.md",
     "pages/Function Arc Length.md",
+    "pages/Polar Equations.md",
     "pages/Motion.md",
     "pages/Mistakes.md",
-    "pages/U-Substitution.md",
-    "pages/Integration.md",
-    "Main.md",
-    "pages/Average Area Below a Function.md",
-    "pages/Function-Related Integrals.md",
-    "pages/Function-Derived Solids.md",
-    "pages/Optimization.md"
+    "pages/U-Substitution.md"
   ]
 }
