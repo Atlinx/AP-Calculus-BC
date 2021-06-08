@@ -6,11 +6,11 @@
       {
         "id": "c35aaa975a2098c1",
         "type": "leaf",
-        "dimension": 60.544217687074834,
+        "dimension": 64.45578231292517,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Series Representation of an Integral.md",
+            "file": "Main.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "4b93100e2b464b40",
         "type": "leaf",
-        "dimension": 39.455782312925166,
+        "dimension": 35.544217687074834,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Series Representation of an Integral.md",
+            "file": "Main.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "radius of conver",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Series Representation of an Integral.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +104,15 @@
   },
   "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
-    "Series Representation of an Integral.md",
     "Main.md",
+    "Growth.md",
+    "Logistical Growth.md",
+    "pages/Differentials.md",
     "pages/Alternating Series Test.md",
-    "pages/Convergence.md",
-    "pages/Function-Related Integrals.md",
-    "pages/Function Arc Length.md",
-    "pages/Polar Equations.md",
-    "pages/Motion.md",
-    "pages/Mistakes.md",
-    "pages/U-Substitution.md"
+    "README.md",
+    "pages/Slope Fields.md",
+    "pages/Function-Derived Solids.md",
+    "pages/Parametric Equations.md",
+    "pages/Mistakes.md"
   ]
 }
