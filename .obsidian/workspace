@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intermediate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,14 +104,14 @@
   "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
     "Main.md",
+    "Interval Theorems.md",
+    "pages/Continuity.md",
+    "pages/Intermediate Value Theorem.md",
+    "pages/Mean Value Theorem.md",
     "Extreme Value Theorem.md",
     "pages/Polar Equations.md",
     "Growth.md",
     "pages/Mistakes.md",
-    "Logistical Growth.md",
-    "pages/Differentials.md",
-    "pages/Alternating Series Test.md",
-    "README.md",
-    "pages/Slope Fields.md"
+    "Logistical Growth.md"
   ]
 }

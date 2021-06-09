@@ -16,7 +16,3 @@ $$\huge \lim_{x\to x}f(x)=f(c)$$
 **Infinite Discontinuity** - When $\lim\limits_{x\to c} = \infty$, which is caused by an asymptote.
 
 **Infinite Oscillations** - When the function oscillates infinitely many time at $x=c$.
-
-## Theorems
-
-[[Intermediate Value Theorem]]
