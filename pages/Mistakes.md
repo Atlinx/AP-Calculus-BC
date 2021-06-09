@@ -89,3 +89,10 @@ Instead, you must do
 $$\Large \frac{d}{dx} \left[ \frac{dy}{dt} \div \frac{dx}{dt} \right] = \frac{d^2y}{dx^2}$$
 
 Therefore you can only do the "division combination" strategy of combining parametric equations **BEFORE** taking the derivative of the combined terms.
+
+## Area of Polar Flower Curves
+
+If you need to find the area of the petals (or the area between petals and thus you first must find the area of the petals), first find the area of a single petal.
+
+You need to make an integral such that it creates a petal starting from one theta and going to another theta. Note that there cannot be any breaks between the integrals!
+

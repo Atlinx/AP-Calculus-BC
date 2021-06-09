@@ -66,3 +66,7 @@ find the area of the purple region.
 1. Integrate of each of the sectors separately to get the different sectors' areas, and sum up all these areas to get the total area.
 
 $$\Large A = \int_{-\frac{\pi}{2}}^\frac{\pi}{2} \frac{1}{2} r_1(\theta)^2 d\theta + \int_\frac{\pi}{2}^\frac{3\pi}{2} \frac{1}{2} r_2(\theta)^2 d\theta$$
+
+## Petals
+
+If you need to find the area of a petal in a flower polar equation, find an integral that can complete the petal without any breaks. For odd petal flowers, you may have to start from a negative angle and integrate to a positive angle to capture the first petal.

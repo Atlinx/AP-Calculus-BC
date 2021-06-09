@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,14 +104,14 @@
   "active": "c35aaa975a2098c1",
   "lastOpenFiles": [
     "Main.md",
+    "pages/Polar Equations.md",
     "Growth.md",
+    "pages/Mistakes.md",
     "Logistical Growth.md",
     "pages/Differentials.md",
     "pages/Alternating Series Test.md",
     "README.md",
     "pages/Slope Fields.md",
-    "pages/Function-Derived Solids.md",
-    "pages/Parametric Equations.md",
-    "pages/Mistakes.md"
+    "pages/Function-Derived Solids.md"
   ]
 }
